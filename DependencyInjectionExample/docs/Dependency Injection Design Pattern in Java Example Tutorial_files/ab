@@ -1,0 +1,59 @@
+(function()
+	{
+	var flashAd='<OBJECT id="7119059785287497657" data="http://cdn.adnxs.com/p/e4/3e/d2/0f/e43ed20fd397d7b6ff38447889219962.swf" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" WIDTH="728" HEIGHT="90" flashvars="clickTag=http%3A%2F%2Fnym1.ib.adnxs.com%2Fclick%3FmpmZmZmZyT-amZmZmZnJPwAAAAAAACRAAAAAAAAAAEAAAAAAAAAAQLl31AQo-8tiuijGI4Q5T0YIZrdUAAAAAJQwAAC1AAAApgEAAAIAAACY7HEB0WMAAAAAAQBVU0QAVVNEANgCWgDiC00A1KoBAgUCAQAAAAAALR4NJAAAAAA.%2Fcnd%3D%2521qAZzQAj_35oDEJjZxwsY0ccBIAA.%2Ftimeout%3D1%2Fclickenc%3Dhttp%253A%252F%252Fadclick.g.doubleclick.net%252Faclk%25253Fsa%25253Dl%252526ai%25253DCZJo5CGa3VKitCoiRMMThgOgG-Py-9QHgx5StGsCNtwEQASAAYOXK5YO0DoIBF2NhLXB1Yi0yMDQ5OTQ4MTgwMDc5MjY0oAGe77jpA8gBCeACAKgDAZgEAKoEtwFP0IkN88f2UXSyk5_jp0NpcWTG-dL_ukhVYFqzJEzG_AlsCw2YB1Apf-jh84ycuwsVby32nGkRGPV97nvNGsQwHe4d2-tNvvHJ8NcOgv0erYl5m2f5PY1OIlyiDW9Fh6W-Q4WBPMYwLwDrKenIfkeQuu9t0IkTIWFv27qmH8QleQB677137zaf_3t2DfUkbSCrenCtZkB3r6QeOvawnt8zixaizP-IuhBLpQ0sBnTI0f20BM6oKfTgBAGABoD2mbK5uaLvWaAGIQ%252526num%25253D1%252526sig%25253DAOD64_1j-g0dvFWIXPV3aRTuNt-YepIMeA%252526client%25253Dca-pub-2049948180079264%252526adurl%25253Dhttp%25253A%25252F%25252Fwww.qatarairways.com%25252Fin%25252Fen%25252Foffers%25252Fnew-year-sale.page%25253Fcid%25253DBAIN459300"><PARAM NAME=movie VALUE="http://cdn.adnxs.com/p/e4/3e/d2/0f/e43ed20fd397d7b6ff38447889219962.swf"><PARAM NAME=loop VALUE=true><PARAM NAME=menu VALUE=false><PARAM NAME=quality VALUE=high><PARAM NAME=wmode VALUE="opaque"><PARAM NAME=bgcolor VALUE=#FFFFFF><PARAM NAME=allowscriptaccess VALUE=always><PARAM NAME=flashvars VALUE="clickTag=http%3A%2F%2Fnym1.ib.adnxs.com%2Fclick%3FmpmZmZmZyT-amZmZmZnJPwAAAAAAACRAAAAAAAAAAEAAAAAAAAAAQLl31AQo-8tiuijGI4Q5T0YIZrdUAAAAAJQwAAC1AAAApgEAAAIAAACY7HEB0WMAAAAAAQBVU0QAVVNEANgCWgDiC00A1KoBAgUCAQAAAAAALR4NJAAAAAA.%2Fcnd%3D%2521qAZzQAj_35oDEJjZxwsY0ccBIAA.%2Ftimeout%3D1%2Fclickenc%3Dhttp%253A%252F%252Fadclick.g.doubleclick.net%252Faclk%25253Fsa%25253Dl%252526ai%25253DCZJo5CGa3VKitCoiRMMThgOgG-Py-9QHgx5StGsCNtwEQASAAYOXK5YO0DoIBF2NhLXB1Yi0yMDQ5OTQ4MTgwMDc5MjY0oAGe77jpA8gBCeACAKgDAZgEAKoEtwFP0IkN88f2UXSyk5_jp0NpcWTG-dL_ukhVYFqzJEzG_AlsCw2YB1Apf-jh84ycuwsVby32nGkRGPV97nvNGsQwHe4d2-tNvvHJ8NcOgv0erYl5m2f5PY1OIlyiDW9Fh6W-Q4WBPMYwLwDrKenIfkeQuu9t0IkTIWFv27qmH8QleQB677137zaf_3t2DfUkbSCrenCtZkB3r6QeOvawnt8zixaizP-IuhBLpQ0sBnTI0f20BM6oKfTgBAGABoD2mbK5uaLvWaAGIQ%252526num%25253D1%252526sig%25253DAOD64_1j-g0dvFWIXPV3aRTuNt-YepIMeA%252526client%25253Dca-pub-2049948180079264%252526adurl%25253Dhttp%25253A%25252F%25252Fwww.qatarairways.com%25252Fin%25252Fen%25252Foffers%25252Fnew-year-sale.page%25253Fcid%25253DBAIN459300"><OBJECT TYPE="application/x-shockwave-flash" data="http://cdn.adnxs.com/p/e4/3e/d2/0f/e43ed20fd397d7b6ff38447889219962.swf?clickTag=http%3A%2F%2Fnym1.ib.adnxs.com%2Fclick%3FmpmZmZmZyT-amZmZmZnJPwAAAAAAACRAAAAAAAAAAEAAAAAAAAAAQLl31AQo-8tiuijGI4Q5T0YIZrdUAAAAAJQwAAC1AAAApgEAAAIAAACY7HEB0WMAAAAAAQBVU0QAVVNEANgCWgDiC00A1KoBAgUCAQAAAAAALR4NJAAAAAA.%2Fcnd%3D%2521qAZzQAj_35oDEJjZxwsY0ccBIAA.%2Ftimeout%3D1%2Fclickenc%3Dhttp%253A%252F%252Fadclick.g.doubleclick.net%252Faclk%25253Fsa%25253Dl%252526ai%25253DCZJo5CGa3VKitCoiRMMThgOgG-Py-9QHgx5StGsCNtwEQASAAYOXK5YO0DoIBF2NhLXB1Yi0yMDQ5OTQ4MTgwMDc5MjY0oAGe77jpA8gBCeACAKgDAZgEAKoEtwFP0IkN88f2UXSyk5_jp0NpcWTG-dL_ukhVYFqzJEzG_AlsCw2YB1Apf-jh84ycuwsVby32nGkRGPV97nvNGsQwHe4d2-tNvvHJ8NcOgv0erYl5m2f5PY1OIlyiDW9Fh6W-Q4WBPMYwLwDrKenIfkeQuu9t0IkTIWFv27qmH8QleQB677137zaf_3t2DfUkbSCrenCtZkB3r6QeOvawnt8zixaizP-IuhBLpQ0sBnTI0f20BM6oKfTgBAGABoD2mbK5uaLvWaAGIQ%252526num%25253D1%252526sig%25253DAOD64_1j-g0dvFWIXPV3aRTuNt-YepIMeA%252526client%25253Dca-pub-2049948180079264%252526adurl%25253Dhttp%25253A%25252F%25252Fwww.qatarairways.com%25252Fin%25252Fen%25252Foffers%25252Fnew-year-sale.page%25253Fcid%25253DBAIN459300" width="728" height="90" wmode="opaque" allowscriptaccess="always"></OBJECT></OBJECT>';
+	var flashBackupUrl='';
+	var alternate = '';
+	if (flashBackupUrl)
+	{
+		alternate='<a href="http://nym1.ib.adnxs.com/click?mpmZmZmZyT-amZmZmZnJPwAAAAAAACRAAAAAAAAAAEAAAAAAAAAAQLl31AQo-8tiuijGI4Q5T0YIZrdUAAAAAJQwAAC1AAAApgEAAAIAAACY7HEB0WMAAAAAAQBVU0QAVVNEANgCWgDiC00A1KoBAgUCAQAAAAAALR4NJAAAAAA./cnd=%21qAZzQAj_35oDEJjZxwsY0ccBIAA./timeout=1/clickenc=http%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%253Fsa%253Dl%2526ai%253DCZJo5CGa3VKitCoiRMMThgOgG-Py-9QHgx5StGsCNtwEQASAAYOXK5YO0DoIBF2NhLXB1Yi0yMDQ5OTQ4MTgwMDc5MjY0oAGe77jpA8gBCeACAKgDAZgEAKoEtwFP0IkN88f2UXSyk5_jp0NpcWTG-dL_ukhVYFqzJEzG_AlsCw2YB1Apf-jh84ycuwsVby32nGkRGPV97nvNGsQwHe4d2-tNvvHJ8NcOgv0erYl5m2f5PY1OIlyiDW9Fh6W-Q4WBPMYwLwDrKenIfkeQuu9t0IkTIWFv27qmH8QleQB677137zaf_3t2DfUkbSCrenCtZkB3r6QeOvawnt8zixaizP-IuhBLpQ0sBnTI0f20BM6oKfTgBAGABoD2mbK5uaLvWaAGIQ%2526num%253D1%2526sig%253DAOD64_1j-g0dvFWIXPV3aRTuNt-YepIMeA%2526client%253Dca-pub-2049948180079264%2526adurl%253Dhttp%253A%252F%252Fwww.qatarairways.com%252Fin%252Fen%252Foffers%252Fnew-year-sale.page%253Fcid%253DBAIN459300" target="_blank"><img width="728" height="90" style="border-style: none" src=""/></a>';
+	}
+
+	var version=9;
+	var isIE=(navigator.appVersion.indexOf("MSIE")!=-1)?true:false;
+	var isWin=(navigator.appVersion.toLowerCase().indexOf("win")!=-1)?true:false;
+	var isOpera=(navigator.userAgent.indexOf("Opera")!=-1)?true:false;
+	function c(){var version;var axo;
+	try{axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+	version=axo.GetVariable("$version");}catch(e1){}
+	if(!version) {try{axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+	version="WIN 6,0,21,0";axo.AllowScriptAccess="always";
+	version=axo.GetVariable("$version");}catch(e2){}} 
+	if(!version) {try{axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+	version=axo.GetVariable("$version");}catch(e3){}}
+	if(!version) {try{axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+	version="WIN 3,0,18,0";}catch(e4){}}
+	if(!version) {try{axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+	version="WIN 2,0,0,11";}catch(e){version=-1;}} return version;} 
+	function g(){var fV=-1;if(navigator.plugins!==null&&navigator.plugins.length>0){
+	if(navigator.plugins["Shockwave Flash 2.0"]||
+	navigator.plugins["Shockwave Flash"])
+	{var swVer2=navigator.plugins["Shockwave Flash 2.0"]?" 2.0":"";
+	var fD=navigator.plugins["Shockwave Flash"+swVer2].description;
+	var dA=fD.split(" ");var tAM=dA[2].split(".");var vM=tAM[0];
+	var vMi=tAM[1];var vRv=dA[3];if(vRv==""){vRv=dA[4];} 
+	if(vRv[0]=="d"){vRv=vRv.substring(1);}else if(vRv[0]=="r"){
+	vRv=vRv.substring(1);if(vRv.indexOf("d")>0){
+	vRv=vRv.substring(0,vRv.indexOf("d"));}} fV=vM+"."+vMi+"."+vRv;}} else 
+	if(navigator.userAgent.toLowerCase().indexOf("webtv/2.6")!=-1){fV=4;} else 
+	if(navigator.userAgent.toLowerCase().indexOf("webtv/2.5")!=-1){fV=3;} else 
+	if(navigator.userAgent.toLowerCase().indexOf("webtv")!=-1){fV=2;} else 
+	if(isIE&&isWin&&!isOpera){fV=c();} return fV;} function d(ma,mi,rv) {
+	var vStr=g();var vA;if(vStr==-1){return false;}else if(vStr!==0){
+	if(isIE&&isWin&&!isOpera){var tA=vStr.split(" ");var tS=tA[1];
+	vA=tS.split(",");}else{vA=vStr.split(".");} var vMa=vA[0];var vMi=vA[1];
+	var vRv=vA[2];if(vMa>parseFloat(ma)){return true;}else if(vMa==parseFloat(ma)){
+	if(vMi>parseFloat(mi)){return true;} else if(vMi==parseFloat(mi)){
+	if(vRv>=parseFloat(rv)){return true;}}} return false;}} var h=d(version,0,0);
+	if(h){document.write(flashAd);
+	if (isIE && navigator.appVersion.indexOf('MSIE 7.') != -1) {
+	document.write('<scr'+'ipt type="text/javascript">adnxsAuctionId="7119059785287497657";</scr'+'ipt>');
+	document.write('<scr'+'ipt type="text/javascript" src="http://cdn.adnxs.com/js/ie7fix.js?7119059785287497657"></scr' + 'ipt>');
+	}} else {document.write(alternate);}
+
+        if (flashBackupUrl)
+        {
+                document.write("<noscript>");
+                document.write(alternate);
+                document.write("</noscript>");
+        }
+})();document.write('<img src="http://tags.crwdcntrl.net/c/3721/cc_af.js" width="1" height="1" />');!function(){function n(n){try{if(!window.location.ancestorOrigins)return;for(var r=0,o=window.location.ancestorOrigins.length;o>r;r++)n.call(null,window.location.ancestorOrigins[r],r)}catch(t){}return[]}function r(n){var r,o=[];do try{r=r?r.parent:window,n.call(null,r,o)}catch(t){return o.push({referrer:null,location:null,isTop:!1}),o}while(r!==window.top);return o}var o=r(function(n,r){try{r.push({referrer:n.document.referrer||null,location:n.location.href||null,isTop:n===window.top})}catch(o){r.push({referrer:null,location:null,isTop:n===window.top})}});n(function(n,r){o[r].ancestor=n});for(var t="",e=!1,i=o.length-1,l=o.length-1;l>=0;l--)if(t=o[l].location,!t&&l>0&&(t=o[l-1].referrer,t||(t=o[l-1].ancestor)),t){e=window.location.ancestorOrigins?!0:l==o.length-1&&o[o.length-1].isTop;break}t=encodeURIComponent(t);var c="&bdref="+t+"&bdtop="+e+"&bdifs="+i;document.write('<script src="http://nym1.ib.adnxs.com/rd_log?e=wqT_3QKDCMj6AwAAAgDWAAUIiMzdpQUQue_RpoDl_uViGLrRmJ7CsM6nRiABKi0JmpmZmZmZyT8RmpkBCgzJPxkABQEIJEAhBQgMAABAKREJoDCUYTi1AUCmA0gCUJjZxwtY0ccBYABo4hdwTXjU1QKAAQGKAQNVU0SSBQbomAHYBaABWqgBAbABALgBAsABBcgBAtABANgBAOABAOoBoARodHRwOi8vYWRjbGljay5nLmRvdWJsZWMFDvRAAm5ldC9hY2xrJTNGc2ElM0RsJTI2YWklM0RDWkpvNUNHYTNWS2l0Q29pUk1NVGhnT2dHLVB5LTlRSGd4NVN0R3NDTnR3RVFBU0FBWU9YSzVZTzBEb0lCRjJOaExYQjFZaTB5TURRNU9UUTRNVGd3TURjNU1qWTBvQUdlNzdqcEE4Z0JDZUFDQUtnREFaZ0VBS29FdHdGUDBJa044OGYyVVhTeWs1X2pwME5wY1dURy1kTF91a2hWWUZxekpFekdfQWxzQ3cyWUIxQXBmLWpoODR5Y3V3c1ZieTMybkdrUkdQVjk3bnZOR3NRd0hlNGQyLXROdnZISjhOY09ndjBlcllsNW0yZjVQWTFPSWx5aURXOUZoNlctUTRXQlBNWXdMd0RyS2VuSWZrZVF1dTl0MElrVElXRnYyN3FtSDhRbGVRQjY3NzEzN3phZl8zdDJEZlVrYlNDcmVuQ3Raa0IzcjZRZU92YXdudDh6aXhhaXpQLUl1aEJMcFEwc0JuVEkwZjIwQk02b0tmVGdCQUdBQm9EMm1iSzV1YUx2V2FBR0lRJTI2bnVtJTNEMSUyNnNpZyUzREFPRDY0XzFqLWcwZHZGV0lYUFYzYVJUdU50LVllcElNZUElMjZjbGllbnQlM0RjYS1wdWItMjA0OTk0ODE4MDA3OTI2NCUyNmFkdXJsJTNE8AEA-gEIdmVydC03MzKKAjp1ZignYScsIDI0NDc4MiwgMTQyMTMwNTM1Mik7dWYoJ3InLCAyNDI0MzM1MiwyHgDwY5ICqQEhX2lHR2l3al8zNW9ERUpqWnh3c1lBQ0RSeHdFd0FEZ0FRQUJJcGdOUWxHRllBR0Q2QldnQWNBQjRBSUFCbmdHSUFmNmNDWkFCQVpnQkFhQUJBYWdCQTdBQkFMa0JBQUEJAxBFREJBUQkLREFBQkF5UUZPNnN0cWJLVFRQORkomDhEX2dBUURxQVFjeE5UVTFPVEUwOVFFU2c1QkGaAh0hcUFaelFBajKsALQwY2NCSUFBLtgC8AbgAmaAAwCIAwGQAwCYAwmgAwGqAwCwAwC4AwDAA6wCyAMA&dlo=1'+c+'"></scr'+'ipt>')}();
